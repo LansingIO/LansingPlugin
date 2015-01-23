@@ -1,0 +1,4 @@
+name: LansingSign
+main: io.lansing.plugin.lansingsign.LansingSign
+version: 1.0.1
+depend: [LansingCore]
